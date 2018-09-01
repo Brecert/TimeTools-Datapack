@@ -13,7 +13,6 @@ execute if score server tt.weekday matches 0 run say It's sunday!
 `tt.day : time query day`
 ```
 tt.day is essentially the same as running time query day  
-
 ```
 
 <br>
@@ -29,7 +28,6 @@ However if you wanted to change how long weeks are, that is perfectly fine.
 `tt.weekday : dummy`
 ```
 The current day of the week  
-
 ```
 
 ## Functions
