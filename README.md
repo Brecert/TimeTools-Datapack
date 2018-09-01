@@ -37,7 +37,9 @@ The current day of the week
 ```
 sets up all of the objectives  
 ```
+
 <br>
+
 `tt:update_day`
 ```
 updates the tt.day objective  
