@@ -1,0 +1,1 @@
+execute store result score server tt.day run time query day
