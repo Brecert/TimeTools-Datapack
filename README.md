@@ -1,6 +1,6 @@
 # TimeTools Datapack
 
-> Adds a single tool to deal with time and get the day of the week
+> A single tool to deal with time and get the day of the week
 
 ## Example
 
