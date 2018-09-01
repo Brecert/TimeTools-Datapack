@@ -54,7 +54,7 @@ update the tt.weekday objective
 
 <br>
 
-`tt:clock`
+`tt:clock : minecraft:tick`
 ```
 runs tt:update_day and tt:update_weekend every tick  
 ```
