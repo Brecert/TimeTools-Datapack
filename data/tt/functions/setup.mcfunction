@@ -18,7 +18,7 @@ scoreboard players set server tt._ 0
 # | tt.out may be used internally but will always return the correct
 # | value when a function says it will return it 
 scoreboard objectives add tt.out dummy
-scoreboard players ser server tt.out 0
+scoreboard players set server tt.out 0
 
 # @objective type live output
 # | @description
